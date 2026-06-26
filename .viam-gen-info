@@ -1,0 +1,13 @@
+{
+  "module_name": "talkback-switch",
+  "visibility": "public",
+  "namespace": "mattmacf",
+  "language": "go",
+  "resource_type": "component",
+  "resource_subtype": "switch",
+  "model_name": "talkback-switch",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-06-26T15:18:42.408026Z",
+  "module_readme_link": "README.md"
+}

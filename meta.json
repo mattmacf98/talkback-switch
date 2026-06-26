@@ -1,0 +1,21 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "mattmacf:talkback-switch",
+  "visibility": "public",
+  "url": "",
+  "description": "Modular switch component: talkback-switch",
+  "applications": null,
+  "markdown_link": "README.md",
+  "entrypoint": "bin/talkback-switch",
+  "first_run": "",
+  "build": {
+    "build": "make module.tar.gz",
+    "setup": "make setup",
+    "path": "module.tar.gz",
+    "arch": [
+      "linux/amd64",
+      "linux/arm64",
+      "darwin/arm64"
+    ]
+  }
+}
