@@ -2,7 +2,7 @@
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "mattmacf:talkback-switch",
   "visibility": "public",
-  "url": "",
+  "url": "https://github.com/mattmacf98/talkback-switch",
   "description": "Modular switch component: talkback-switch",
   "applications": null,
   "markdown_link": "README.md",
